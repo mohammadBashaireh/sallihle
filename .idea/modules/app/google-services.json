@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176849219538",
+    "firebase_url": "https://sallihle.firebaseio.com",
+    "project_id": "sallihle",
+    "storage_bucket": "sallihle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176849219538:android:d77f1a82aaf7558d7ea20b",
+        "android_client_info": {
+          "package_name": "com.example.sallihle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176849219538-kkiqek6oqm72aabiordgq1ghlprg1289.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sallihle",
+            "certificate_hash": "72e682e71433cf4aa2a0a334d86aa9e269c8b3d2"
+          }
+        },
+        {
+          "client_id": "176849219538-kdoqaq3cvhjv9dtlj1dn9brpcp6n892a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTh88ibOWEFWtpZloKhYoyPLtnWIqhdx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176849219538-kdoqaq3cvhjv9dtlj1dn9brpcp6n892a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">sallihle</string>
+    <string-array name="car_type">
+        <item>Car Type </item>
+        <item>Mercedes </item>
+        <item>Toyota </item>
+        <item>Peugeot </item>
+        <item>Ford </item>
+        <item>Hyundai </item>
+        <item>Audi </item>
+        <item>Honda </item>
+        <item>Nissan </item>
+        <item>Jeep </item>
+        <item>Mazda </item>
+        <item>BMW </item>
+        <item>Lexus </item>
+        <item>Chevrolet </item>
+        <item>KIA </item>
+    </string-array>
+
+    <string-array name="Engine_type">
+        <item>Engine Type </item>
+        <item>Diesel </item>
+        <item>petrol </item>
+        <item>Hybrid </item>
+    </string-array>
+
+    <string-array name="gear_type">
+        <item>Gear Type </item>
+        <item>Automatic </item>
+        <item>Manual </item>
+    </string-array>
+
+    <string-array name="car_color">
+        <item>Color Type </item>
+        <item>Red </item>
+        <item>Blue  </item>
+        <item>Black </item>
+        <item>Grey </item>
+        <item>Silver </item>
+        <item>White </item>
+        <item>Green  </item>
+        <item>Brown </item>
+        <item>Yellow </item>
+        <item>Purple  </item>
+        <item>Orange  </item>
+    </string-array>
+
+    <string-array name="service_type">
+        <item>Service Type </item>
+        <item>Mechanical </item>
+        <item>Electrician </item>
+        <item>Flat tire</item>
+        <item>Out of gas</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>

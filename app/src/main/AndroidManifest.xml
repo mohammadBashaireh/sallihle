@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sallihle">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".request_details"></activity>
+        <activity android:name=".provider_home" />
+        <activity android:name=".client_location" />
+        <activity android:name=".client_request" />
+        <activity android:name=".client_main_screen" />
+        <activity android:name=".station_info" />
+        <activity android:name=".provider_reg" />
+        <activity android:name=".client_car" />
+        <activity android:name=".client__reg" />
+        <activity android:name=".regesration" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
